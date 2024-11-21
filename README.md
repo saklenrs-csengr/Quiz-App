@@ -7,7 +7,7 @@ Features :
 - Score calculation and display at the end of the quiz.
 - Responsive design for a seamless experience on desktop and mobile devices.
 - Option to restart the quiz and try again.
-- 
+
 Technologies Used :
 - HTML,
 - CSS,
